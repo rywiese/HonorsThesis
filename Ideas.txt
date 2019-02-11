@@ -1,13 +1,23 @@
-Theorem prover (continue/re-work my project from 4511W)
+Administrative Details:
+    I need to turn in a proposal form by the end of spring semester
+    I do not need to take the thesis for credit, but it may be beneficial in terms
+    of a GPA boost, and I may need the GPA boost in order to hit the summa cum
+    laude mark CSCI dept is usually pretty lax about these requirements, so taking
+    it for credit most likely won't be an inconvenience, but I should double
+    check with the csci/honors rep to make sure.
 
-Something related to blockchain
+Ideas:
+    Theorem prover (continue/re-work my project from 4511W)
 
-Some sort of web app that can be used as a more visual and interactive teaching
-tool for csci or math related topics (inspired by a previous thesis project that
-was an applet that allowed for the visualization of fibonacci heaps)
+    Something related to blockchain
 
-Something ML related. I would want to make something creative and entertaining -
-some ideas I have found online include:
-a neural net that generates a Kanye West style rap song based on the input of
-Kanye's entire discography
-a neural net that generates cooking recipes
+    Some sort of web app that can be used as a more visual and interactive teaching
+    tool for csci or math related topics (inspired by a previous thesis project that
+    was an applet that allowed for the visualization of fibonacci heaps)
+
+    Something ML related. I would want to make something creative and entertaining
+    some ideas I have found online include:
+        a neural net that generates a Kanye West style rap song based on the input of
+        Kanye's entire discography
+
+        a neural net that generates cooking recipes
