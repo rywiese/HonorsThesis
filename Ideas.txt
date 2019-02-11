@@ -1,0 +1,13 @@
+Theorem prover (continue/re-work my project from 4511W)
+
+Something related to blockchain
+
+Some sort of web app that can be used as a more visual and interactive teaching
+tool for csci or math related topics (inspired by a previous thesis project that
+was an applet that allowed for the visualization of fibonacci heaps)
+
+Something ML related. I would want to make something creative and entertaining -
+some ideas I have found online include:
+a neural net that generates a Kanye West style rap song based on the input of
+Kanye's entire discography
+a neural net that generates cooking recipes
