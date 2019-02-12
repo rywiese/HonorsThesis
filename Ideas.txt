@@ -21,3 +21,9 @@ Ideas:
         Kanye's entire discography
 
         a neural net that generates cooking recipes
+
+    encryption (and the math behind it)
+
+    NLP (possibly a method that involves pattern matching with the actual structure
+    of language, rather than just statistical analysis of what words go near each
+    other often)
