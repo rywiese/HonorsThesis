@@ -10,7 +10,7 @@ Administrative Details:
 Ideas:
     Theorem prover (continue/re-work my project from 4511W)
 
-    Something related to blockchain
+    Something related to blockchain (email about something that requires less power)
 
     Some sort of web app that can be used as a more visual and interactive teaching
     tool for csci or math related topics (inspired by a previous thesis project that
@@ -33,7 +33,9 @@ Ideas:
 
     language parsing/front end compiler type things
 
-    
+    start a new cryptocurrency (one that doesn't use energy)
+        strictly typed, compiled and runs fast
+        D, nim, rust (ultra secure), lisp/scheme (guile (works with C), racket (best real version of scheme, realm of racket)), ML, Erlang (concurrency)
 
 Other people's projects/thesis:
     fibonacci heap applet
@@ -43,3 +45,8 @@ Other people's projects/thesis:
     https://github.com/robbiebarrat/rapping-neural-network
     https://www.dailydot.com/unclick/neural-network-recipe-generator/
     https://s3-us-west-2.amazonaws.com/www-cse-public/ugrad/thesis/TR12-04_Spishak.pdf
+
+convolutional neural network demo do a pull request (email)
+elementary book on bitcoin
+land of lisp (music video) - same author
+quantum cryptography
