@@ -2,7 +2,8 @@ Administrative Details:
     I need to turn in a proposal form by the end of spring semester
     I do not need to take the thesis for credit, but it may be beneficial in terms
     of a GPA boost, and I may need the GPA boost in order to hit the summa cum
-    laude mark CSCI dept is usually pretty lax about these requirements, so taking
+    laude mark. Also, GPA cutoff is based on last 60 credits, so I may be pushing
+    some bad grades out. CSCI dept is usually pretty lax about these requirements, so taking
     it for credit most likely won't be an inconvenience, but I should double
     check with the csci/honors rep to make sure.
 
@@ -27,3 +28,18 @@ Ideas:
     NLP (possibly a method that involves pattern matching with the actual structure
     of language, rather than just statistical analysis of what words go near each
     other often)
+
+    something related to number theory
+
+    language parsing/front end compiler type things
+
+    
+
+Other people's projects/thesis:
+    fibonacci heap applet
+    https://www.csd.cs.cmu.edu/thesis_topics/Timothy_Becker
+    https://www.csd.cs.cmu.edu/thesis_topics/William_Chargin
+    https://www.csd.cs.cmu.edu/thesis_topics/Yeongwoo_Hwang
+    https://github.com/robbiebarrat/rapping-neural-network
+    https://www.dailydot.com/unclick/neural-network-recipe-generator/
+    https://s3-us-west-2.amazonaws.com/www-cse-public/ugrad/thesis/TR12-04_Spishak.pdf
