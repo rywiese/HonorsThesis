@@ -50,3 +50,4 @@ convolutional neural network demo do a pull request (email)
 elementary book on bitcoin
 land of lisp (music video) - same author
 quantum cryptography
+fractal dimension
